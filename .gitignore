@@ -1,0 +1,13 @@
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+env/
+
+# Sensitive files
+*.env
+
+
+lib/python3.10/site-packages/
